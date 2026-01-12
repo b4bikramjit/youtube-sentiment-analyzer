@@ -76,7 +76,7 @@ def fetch_comments(video_url, limit=1000):
 # --------------------------------------------------
 # UI
 # --------------------------------------------------
-st.markdown("<h1 style='color: red;'>YouTube Comment Aanalyzer</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='color: red;'>YouTube Comment Analyzer</h1>", unsafe_allow_html=True)
 st.write("Analyze **Positive / Neutral / Negative** sentiment using Machine Learning")
 
 url = st.text_input("🔗 Enter YouTube Video URL")
