@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+lightgbm
+joblib
+youtube-comment-downloader
+matplotlib
+seaborn
+wordcloud
+plotly
