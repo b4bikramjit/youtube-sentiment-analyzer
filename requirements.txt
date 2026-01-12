@@ -9,3 +9,4 @@ matplotlib
 seaborn
 wordcloud
 plotly
+nltk
